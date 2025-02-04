@@ -26,24 +26,23 @@ The dataset consists of a sample of over 25,000 reactions, 16 distinct qualitati
 
 <img width="503" alt="Image" src="https://github.com/user-attachments/assets/8a0bac18-4e46-4818-8b31-6d19d438da67" />
 
-**Content**
-ID: Unique ID of the content that was uploaded (automatically generated)
-User ID: Unique ID of a user that exists in the User table
-Type: A string detailing the type of content that was uploaded
-Category: A string detailing the category that this content is relevant to
+**Content**<br/>
+ID: Unique ID of the content that was uploaded (automatically generated) <br/>
+User ID: Unique ID of a user that exists in the User table<br/>
+Type: A string detailing the type of content that was uploaded<br/>
+Category: A string detailing the category that this content is relevant to<br/>
 URL: Link to the location where this content is stored
 
 **Reaction**
-Content ID: Unique ID of a piece of content that was uploaded
-User ID: Unique ID of a user that exists in the User table who reacted to this piece of content
-Type: A string detailing the type of reaction this user gave
+Content ID: Unique ID of a piece of content that was uploaded<br/>
+User ID: Unique ID of a user that exists in the User table who reacted to this piece of content<br/>
+Type: A string detailing the type of reaction this user gave<br/>
+Datetime: The date and time of this reaction
 
-**Datetime**: The date and time of this reaction
-
-**ReactionTypes**
-Type: A string detailing the type of reaction this user gave
-Sentiment: A string detailing whether this type of reaction is considered as positive, negative, or neutral
-Score: This is a number calculated by Social Buzz that quantifies how “popular” each reaction is. A reaction type with a higher score should be considered a more popular reaction.
+**ReactionTypes**<br/>
+Type: A string detailing the type of reaction this user gave<br/>
+Sentiment: A string detailing whether this type of reaction is considered as positive, negative, or neutral<br/>
+Score: This is a number calculated by Social Buzz that quantifies how “popular” each reaction is. A reaction type with a higher score should be considered a more popular reaction
 
 
 **Steps taken to clean the data**
@@ -89,9 +88,8 @@ Animals and Science are the top two performers, and the engagement suggests a gr
 
 **Actionable Insights**:
 Focus content strategy on categories like Animals and Science, as they have the highest popularity.
-Consider further engagement strategies for other categories like Technology and Healthy Eating.
-
-+ Example: post 30 second videos about healthy eating or technology related topics.
+Consider further engagement strategies for other categories like Technology and Healthy Eating.<br/>
++ Example: post 30 second videos about healthy eating or technology related topics.<br/>
 
 Conduct another content analysis at a later phase to check on the success of this plan.
 

@@ -14,7 +14,7 @@ Insights and recommendations are provided in the following key areas:
 + Content categories analysis: An analysis of the content and reactions.
 
 
-Excel steps taken to clean and model the data can be found [here](https://drive.google.com/file/d/1F7BrtKaQHzqIcI7OQDeNclLks4w-EpbS/view?usp=sharing).
+Excel steps taken to clean and model the data can be found [here](https://drive.google.com/file/d/1AbKj5FTOz8UP8oWLwmpT2g3_Ay_5GNX1/view?usp=sharing).
 
 ----
 
@@ -53,7 +53,7 @@ Removed rows that have values that are missing
 Changed the data type of some values within a column
 Removed columns that are not relevant to this task.
 
-The detailed steps can be found [here](https://drive.google.com/file/d/1F7BrtKaQHzqIcI7OQDeNclLks4w-EpbS/view?usp=sharing).
+The detailed steps can be found [here](https://drive.google.com/file/d/1AbKj5FTOz8UP8oWLwmpT2g3_Ay_5GNX1/view?usp=sharing).
 
 ---
 <h2>Summary</h2> 
